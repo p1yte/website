@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>contact - kai morales</title>
+    <style>
+        body {
+            background-color: whitesmoke;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: left; /* Align content to the left */
+            color: black;
+        }
+        img {
+            max-width: 150px; /* Adjust the width as needed */
+            height: auto;
+            margin-bottom: 20px;
+        }
+        .back-to-home {
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            font-size: 14px;
+            color: black;
+            text-decoration: none; 
+        }
+
+    </style>
+</head>
+<body>
+<a class="back-to-home" href="index.html">back</a>
+<div class="container">
+    <h2>gear i use</h2>
+    <img src="your-image.jpg" alt="Kai Morales Image">
+    <p><strong>camera:</strong> cannon 5d mark iv</p>
+    <p><strong>lenses:</strong> canon ef zoom 24-105mm f/4.0 // canon ef 70-200mm f/2.8l</p>
+    <p><strong>microphone:</strong> rode videomic go ii</p>
+    <p><strong>computers:</strong> m2 macbook air '15 (macos) // thinkpad t420s i5, 16gb ram, 1tb ssd (archlinux)// desktop ryzen 5700g, 32gb ram, gtx 1080 (windows)</p>
+    <p><strong>display:</strong> apple cinema display '23</p>
+    <p><strong>e-reader:</strong> oynx boox palma</p>
+    <p><strong>music:</strong> 5th gen apple ipod classic </p>
+</div>
+</body>
+</html>
